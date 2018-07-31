@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson</string>
+    <string name="hello_text">Hello</string>
+    <string name="name_text_format">Hi, %1$s</string>
+</resources>

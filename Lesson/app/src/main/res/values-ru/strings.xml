@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Уроки</string>
+
+    <string name="hello_text">Привет</string>
+
+    <string name="name_text_format">куку, %1$s</string>
+</resources>
